@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+  margin-bottom: -50px;
+}
+
+/* Jumbotron h1 */
+.display-7 {
+  font-size: 35px;
+}
+
+/* Jumbotron p */
+.lead {
+  font-size: large;
+}
+
+/* Projects */
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
